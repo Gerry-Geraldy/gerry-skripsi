@@ -1,0 +1,11 @@
+Hal hal yang perlu diperbaiki dalam proposal
+
+1 Pada rumusan masalah ada 2 yang harus diperbaiki yaitu bagaimana cara menguji metode scrum and agile dalam implementasi pengembangan websitenya
+2.Hasil Akhir nya bagaimana 
+
+Pada BAB 2
+
+1.Jelaskan dengan alur yang sesuai baik penjelasan awal harus ada penjelasan secara global dan dengan data statistik yang ada
+2.Ada exit point yang merujuk ke  entry point di sub yang selanjutnya
+
+Fokus terlebih dahulu memperbaiki bab 2 dari segi alur penejelasan tiap2 sub nya
